@@ -4,3 +4,4 @@ https://hackernoon.com/microservices-bounded-context-cohesion-what-do-they-have-
 https://blog.carbonfive.com/2016/10/04/ubiquitous-language-the-joy-of-naming/
 https://blog.carbonfive.com/2016/11/01/bring-clarity-to-your-monolith-with-bounded-contexts/
 https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-1/
+https://github.com/App-vNext/Polly/wiki/Polly-and-HttpClientFactory
